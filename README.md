@@ -1,5 +1,5 @@
 ## Hi there 👋
 
-这个人很懒，什么也没有留下。
+此人极其懒惰，什么都没留下。
 
 This person is so lazy that he left nothing.
