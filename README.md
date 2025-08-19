@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-22%20hrs%207%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-22%20hrs%2011%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -9,12 +9,16 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+HTML                     3 mins              ███████████████████████░░   90.41 % 
+JavaScript               0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   09.13 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+Image (svg)              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+WebStorm                 3 mins              █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 18/08/2025 18:54:16 UTC
+ Last Updated on 19/08/2025 18:50:00 UTC
 <!--END_SECTION:waka-->
