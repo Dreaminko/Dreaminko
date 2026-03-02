@@ -9,16 +9,16 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-GDScript                 1 hr 3 mins         ███████░░░░░░░░░░░░░░░░░░   29.18 % 
-Python                   38 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.62 % 
-GDScript3                32 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.97 % 
-jsonc                    18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 % 
-Markdown                 14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.63 % 
+GDScript                 58 mins             ███████░░░░░░░░░░░░░░░░░░   27.62 % 
+Python                   38 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.84 % 
+GDScript3                28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.41 % 
+TypeScript               25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.88 % 
+Markdown                 21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.89 % 
 
 🔥 Editors: 
-Zed                      3 hrs 35 mins       █████████████████████████   100.00 % 
+Zed                      3 hrs 33 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 01/03/2026 18:57:30 UTC
+ Last Updated on 02/03/2026 19:21:16 UTC
 <!--END_SECTION:waka-->
