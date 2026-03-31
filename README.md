@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-47%20hrs%2031%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-47%20hrs%207%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -9,16 +9,17 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-git ignore               6 mins              ████████████████░░░░░░░░░   63.19 % 
-JavaScript               2 mins              █████░░░░░░░░░░░░░░░░░░░░   19.63 % 
-C#                       1 min               ███░░░░░░░░░░░░░░░░░░░░░░   12.28 % 
-HTML                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
+Python                   18 mins             █████████████░░░░░░░░░░░░   52.85 % 
+git ignore               6 mins              █████░░░░░░░░░░░░░░░░░░░░   19.34 % 
+Markdown                 5 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.54 % 
+JavaScript               2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.01 % 
+C#                       1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 % 
 
 🔥 Editors: 
-Zed                      9 mins              ██████████████████████░░░   87.72 % 
-VS Code                  1 min               ███░░░░░░░░░░░░░░░░░░░░░░   12.28 % 
+Zed                      33 mins             ████████████████████████░   96.24 % 
+VS Code                  1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 % 
 ```
 
 
- Last Updated on 31/03/2026 14:26:04 UTC
+ Last Updated on 31/03/2026 19:33:39 UTC
 <!--END_SECTION:waka-->
