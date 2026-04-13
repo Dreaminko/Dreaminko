@@ -9,13 +9,15 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-XAML                     12 mins             █████████████████████████   99.85 % 
-C#                       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+XAML                     12 mins             █████████████████░░░░░░░░   66.39 % 
+Markdown                 6 mins              ████████░░░░░░░░░░░░░░░░░   33.52 % 
+C#                       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 
 🔥 Editors: 
-Rider                    12 mins             █████████████████████████   100.00 % 
+Rider                    12 mins             █████████████████░░░░░░░░   66.48 % 
+VS Code                  6 mins              ████████░░░░░░░░░░░░░░░░░   33.52 % 
 ```
 
 
- Last Updated on 12/04/2026 19:22:43 UTC
+ Last Updated on 13/04/2026 19:49:08 UTC
 <!--END_SECTION:waka-->
