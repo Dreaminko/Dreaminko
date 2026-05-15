@@ -1,20 +1,6 @@
 ## Hi there 👋
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-48%20hrs%2015%20mins-blue?style=flat)
 
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-JavaScript               10 mins             █████████████████████████   100.00 % 
-
-🔥 Editors: 
-VS Code                  10 mins             █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 14/05/2026 20:14:56 UTC
+ Last Updated on 15/05/2026 20:02:43 UTC
 <!--END_SECTION:waka-->
