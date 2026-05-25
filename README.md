@@ -9,12 +9,13 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 1 min               ████████████████████░░░░░   80.14 % 
+csharp                   0 secs              █████░░░░░░░░░░░░░░░░░░░░   19.86 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Zed                      2 mins              █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 24/05/2026 19:46:54 UTC
+ Last Updated on 25/05/2026 20:10:10 UTC
 <!--END_SECTION:waka-->
