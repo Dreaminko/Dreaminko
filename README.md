@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-55%20hrs%2057%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-56%20hrs%204%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -9,17 +9,17 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 1 hr 46 mins        ██████░░░░░░░░░░░░░░░░░░░   25.76 % 
-Rust                     1 hr 30 mins        █████░░░░░░░░░░░░░░░░░░░░   21.79 % 
-ActionScript             1 hr 24 mins        █████░░░░░░░░░░░░░░░░░░░░   20.53 % 
-TypeScript               48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.71 % 
-JSON                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.58 % 
+Markdown                 1 hr 44 mins        ██████░░░░░░░░░░░░░░░░░░░   25.02 % 
+Rust                     1 hr 30 mins        █████░░░░░░░░░░░░░░░░░░░░   21.56 % 
+ActionScript             1 hr 24 mins        █████░░░░░░░░░░░░░░░░░░░░   20.31 % 
+TypeScript               48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.60 % 
+JSON                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.52 % 
 
 🔥 Editors: 
-Zed                      6 hrs 52 mins       █████████████████████████   99.78 % 
+Zed                      6 hrs 56 mins       █████████████████████████   99.78 % 
 Unknown Editor           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
 ```
 
 
- Last Updated on 01/06/2026 21:49:21 UTC
+ Last Updated on 02/06/2026 21:33:11 UTC
 <!--END_SECTION:waka-->
