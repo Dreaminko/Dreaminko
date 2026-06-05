@@ -9,17 +9,17 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 1 hr 44 mins        ██████░░░░░░░░░░░░░░░░░░░   25.02 % 
-Rust                     1 hr 30 mins        █████░░░░░░░░░░░░░░░░░░░░   21.56 % 
-ActionScript             1 hr 24 mins        █████░░░░░░░░░░░░░░░░░░░░   20.31 % 
-TypeScript               48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.60 % 
-JSON                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.52 % 
+Markdown                 1 hr 33 mins        ████████░░░░░░░░░░░░░░░░░   33.36 % 
+ActionScript             1 hr 24 mins        ████████░░░░░░░░░░░░░░░░░   30.34 % 
+TypeScript               48 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.33 % 
+XML                      20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.28 % 
+JavaScript               10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 % 
 
 🔥 Editors: 
-Zed                      6 hrs 56 mins       █████████████████████████   99.78 % 
-Unknown Editor           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+Zed                      4 hrs 38 mins       █████████████████████████   99.67 % 
+Unknown Editor           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
 ```
 
 
- Last Updated on 04/06/2026 20:32:59 UTC
+ Last Updated on 05/06/2026 20:27:00 UTC
 <!--END_SECTION:waka-->
