@@ -1,24 +1,22 @@
 ## Hi there 👋
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-57%20hrs%205%20mins-blue?style=flat)
-
 📊 **This Week I Spent My Time On** 
 
 ```text
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 52 mins             ███████░░░░░░░░░░░░░░░░░░   28.63 % 
-ActionScript             43 mins             ██████░░░░░░░░░░░░░░░░░░░   23.81 % 
-GDScript3                37 mins             █████░░░░░░░░░░░░░░░░░░░░   20.51 % 
-XML                      14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 % 
-TypeScript               12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
+GDScript3                37 mins             ██████████████░░░░░░░░░░░   54.78 % 
+Markdown                 8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
+Godot Resource           7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.34 % 
+GDScript                 7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
+JavaScript               6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.95 % 
 
 🔥 Editors: 
-Zed                      3 hrs 2 mins        █████████████████████████   100.00 % 
+Zed                      1 hr 8 mins         █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 06/06/2026 19:54:30 UTC
+ Last Updated on 07/06/2026 19:55:40 UTC
 <!--END_SECTION:waka-->
