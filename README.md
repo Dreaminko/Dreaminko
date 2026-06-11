@@ -9,16 +9,18 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-GDScript3                37 mins             ███████████████░░░░░░░░░░   60.93 % 
-Markdown                 8 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.34 % 
-Godot Resource           7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
-GDScript                 7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.61 % 
-git ignore               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
+Kotlin                   2 hrs 47 mins       █████████████████░░░░░░░░   66.99 % 
+GDScript3                37 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.99 % 
+Markdown                 10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 % 
+GitIgnore file           7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
+Godot Resource           7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
 
 🔥 Editors: 
-Zed                      1 hr 1 min          █████████████████████████   100.00 % 
+VS Code                  2 hrs 4 mins        ████████████░░░░░░░░░░░░░   49.87 % 
+Zed                      1 hr 3 mins         ██████░░░░░░░░░░░░░░░░░░░   25.38 % 
+Android Studio           1 hr 1 min          ██████░░░░░░░░░░░░░░░░░░░   24.75 % 
 ```
 
 
- Last Updated on 10/06/2026 21:07:46 UTC
+ Last Updated on 11/06/2026 21:01:36 UTC
 <!--END_SECTION:waka-->
