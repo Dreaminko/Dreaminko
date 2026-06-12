@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-57%20hrs%205%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-60%20hrs%2013%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -9,18 +9,19 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Kotlin                   2 hrs 47 mins       █████████████████░░░░░░░░   66.99 % 
-GDScript3                37 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.99 % 
-Markdown                 10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 % 
-GitIgnore file           7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
-Godot Resource           7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
+Kotlin                   5 hrs 24 mins       █████████████████░░░░░░░░   68.75 % 
+Unity3D Asset            36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 % 
+C#                       31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.63 % 
+TypeScript               21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
+XML                      21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 4 mins        ████████████░░░░░░░░░░░░░   49.87 % 
-Zed                      1 hr 3 mins         ██████░░░░░░░░░░░░░░░░░░░   25.38 % 
-Android Studio           1 hr 1 min          ██████░░░░░░░░░░░░░░░░░░░   24.75 % 
+VS Code                  5 hrs 43 mins       ██████████████████░░░░░░░   72.83 % 
+Android Studio           1 hr 30 mins        █████░░░░░░░░░░░░░░░░░░░░   19.22 % 
+Zed                      23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
+Rider                    14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
 ```
 
 
- Last Updated on 11/06/2026 21:01:36 UTC
+ Last Updated on 12/06/2026 20:36:07 UTC
 <!--END_SECTION:waka-->
