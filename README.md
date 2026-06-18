@@ -9,19 +9,20 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Kotlin                   8 hrs 27 mins       █████████████████░░░░░░░░   67.97 % 
-XML                      38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.15 % 
-Unity3D Asset            36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.85 % 
-C#                       31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 % 
-TypeScript               25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
+Kotlin                   7 hrs 3 mins        ████████████░░░░░░░░░░░░░   46.28 % 
+TypeScript               3 hrs 23 mins       ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
+Markdown                 54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.92 % 
+XML                      37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
+Unity3D Asset            36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 32 mins       ███████████████████░░░░░░   76.71 % 
-Android Studio           2 hrs 12 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.79 % 
-Zed                      26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
-Rider                    14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
+VS Code                  12 hrs 10 mins      ████████████████████░░░░░   79.87 % 
+Android Studio           1 hr 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.43 % 
+Codex CLI                45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.97 % 
+Zed                      38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+Rider                    14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
 ```
 
 
- Last Updated on 17/06/2026 20:34:28 UTC
+ Last Updated on 18/06/2026 21:03:02 UTC
 <!--END_SECTION:waka-->
