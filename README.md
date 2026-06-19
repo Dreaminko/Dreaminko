@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-69%20hrs%2031%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-72%20hrs%2044%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -9,20 +9,19 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Kotlin                   7 hrs 3 mins        ████████████░░░░░░░░░░░░░   46.28 % 
-TypeScript               3 hrs 23 mins       ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
-Markdown                 54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.92 % 
-XML                      37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
-Unity3D Asset            36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
+Kotlin                   4 hrs 25 mins       ██████████░░░░░░░░░░░░░░░   38.37 % 
+TypeScript               3 hrs 1 min         ███████░░░░░░░░░░░░░░░░░░   26.22 % 
+Markdown                 1 hr 19 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.45 % 
+YAML                     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
+Python                   19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
 
 🔥 Editors: 
-VS Code                  12 hrs 10 mins      ████████████████████░░░░░   79.87 % 
-Android Studio           1 hr 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.43 % 
-Codex CLI                45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.97 % 
-Zed                      38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
-Rider                    14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
+VS Code                  9 hrs 33 mins       █████████████████████░░░░   82.75 % 
+Android Studio           57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 % 
+Codex CLI                45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
+Zed                      16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.43 % 
 ```
 
 
- Last Updated on 18/06/2026 21:03:02 UTC
+ Last Updated on 19/06/2026 20:16:39 UTC
 <!--END_SECTION:waka-->
