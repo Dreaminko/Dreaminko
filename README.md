@@ -9,19 +9,19 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               1 hr 56 mins        ███████░░░░░░░░░░░░░░░░░░   28.36 % 
-Markdown                 1 hr 32 mins        ██████░░░░░░░░░░░░░░░░░░░   22.52 % 
-Kotlin                   58 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.33 % 
-C#                       43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
-Python                   25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.21 % 
+Markdown                 1 hr 34 mins        ██████░░░░░░░░░░░░░░░░░░░   24.71 % 
+TypeScript               1 hr 31 mins        ██████░░░░░░░░░░░░░░░░░░░   24.00 % 
+Kotlin                   58 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.39 % 
+C#                       43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.31 % 
+Python                   25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 28 mins       ████████████████████░░░░░   80.25 % 
-Codex CLI                45 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.09 % 
-Zed                      21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.35 % 
-Android Studio           13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
+VS Code                  4 hrs 58 mins       ████████████████████░░░░░   78.25 % 
+Codex CLI                45 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.91 % 
+Zed                      23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.27 % 
+Android Studio           13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 % 
 ```
 
 
- Last Updated on 22/06/2026 21:20:18 UTC
+ Last Updated on 23/06/2026 20:34:33 UTC
 <!--END_SECTION:waka-->
