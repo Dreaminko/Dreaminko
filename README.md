@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-75%20hrs%2015%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-79%20hrs-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -9,19 +9,18 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 1 hr 34 mins        ███████░░░░░░░░░░░░░░░░░░   27.35 % 
-Kotlin                   58 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.06 % 
-TypeScript               54 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.80 % 
-C#                       43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.54 % 
-Python                   25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 % 
+Markdown                 1 hr 3 mins         ██████░░░░░░░░░░░░░░░░░░░   25.19 % 
+Kotlin                   44 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.54 % 
+C#                       43 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.12 % 
+Properties               25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.28 % 
+Python                   25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.12 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 21 mins       ███████████████████░░░░░░   75.89 % 
-Codex CLI                45 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.21 % 
-Zed                      23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.95 % 
-Android Studio           13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
+VS Code                  3 hrs 25 mins       ████████████████████░░░░░   81.36 % 
+Zed                      29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.50 % 
+Android Studio           17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.13 % 
 ```
 
 
- Last Updated on 24/06/2026 20:18:38 UTC
+ Last Updated on 25/06/2026 20:32:24 UTC
 <!--END_SECTION:waka-->
