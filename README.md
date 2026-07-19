@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-91%20hrs%2048%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-94%20hrs%2020%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -9,18 +9,18 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               1 hr 5 mins         █████░░░░░░░░░░░░░░░░░░░░   21.93 % 
-CSS                      1 hr 5 mins         █████░░░░░░░░░░░░░░░░░░░░   21.89 % 
-Kotlin                   37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.65 % 
-Java Properties          27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.29 % 
-YAML                     21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+TypeScript               1 hr 5 mins         ███████░░░░░░░░░░░░░░░░░░   26.01 % 
+CSS                      1 hr 5 mins         ██████░░░░░░░░░░░░░░░░░░░   25.96 % 
+Kotlin                   29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.72 % 
+Java Properties          27 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.02 % 
+YAML                     21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 42 mins       ███████████████████░░░░░░   74.45 % 
-Zed                      1 hr 2 mins         █████░░░░░░░░░░░░░░░░░░░░   21.05 % 
-Android Studio           13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
+VS Code                  3 hrs 21 mins       ████████████████████░░░░░   79.99 % 
+Zed                      36 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.67 % 
+Android Studio           13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.34 % 
 ```
 
 
- Last Updated on 18/07/2026 19:43:27 UTC
+ Last Updated on 19/07/2026 19:42:34 UTC
 <!--END_SECTION:waka-->
