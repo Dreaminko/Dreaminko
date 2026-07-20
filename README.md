@@ -9,18 +9,17 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               1 hr 5 mins         ███████░░░░░░░░░░░░░░░░░░   26.01 % 
-CSS                      1 hr 5 mins         ██████░░░░░░░░░░░░░░░░░░░   25.96 % 
-Kotlin                   29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.72 % 
-Java Properties          27 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.02 % 
-YAML                     21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 % 
+TypeScript               1 hr 59 mins        ████████████░░░░░░░░░░░░░   46.58 % 
+CSS                      1 hr 5 mins         ██████░░░░░░░░░░░░░░░░░░░   25.44 % 
+HTML                     21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 % 
+JSON                     21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+Swift                    13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 21 mins       ████████████████████░░░░░   79.99 % 
-Zed                      36 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.67 % 
-Android Studio           13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.34 % 
+VS Code                  3 hrs 32 mins       █████████████████████░░░░   82.70 % 
+Zed                      44 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.30 % 
 ```
 
 
- Last Updated on 19/07/2026 19:42:34 UTC
+ Last Updated on 20/07/2026 20:07:28 UTC
 <!--END_SECTION:waka-->
