@@ -1,8 +1,6 @@
 ## Hi there 👋
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-98%20hrs%2011%20mins-blue?style=flat)
-
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -22,5 +20,5 @@ Zed                      56 mins             ██░░░░░░░░░�
 ```
 
 
- Last Updated on 22/07/2026 19:53:10 UTC
+ Last Updated on 23/07/2026 19:55:56 UTC
 <!--END_SECTION:waka-->
