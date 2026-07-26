@@ -9,18 +9,18 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               5 hrs 17 mins       ████████░░░░░░░░░░░░░░░░░   30.83 % 
-CSS                      3 hrs 15 mins       █████░░░░░░░░░░░░░░░░░░░░   18.97 % 
-Markdown                 2 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.93 % 
-Python                   1 hr 42 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.96 % 
-RPMSpec                  1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.58 % 
+TypeScript               4 hrs 17 mins       ███████░░░░░░░░░░░░░░░░░░   29.39 % 
+CSS                      2 hrs 22 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.28 % 
+Markdown                 2 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.37 % 
+Python                   1 hr 42 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.70 % 
+JSON                     1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 % 
 
 🔥 Editors: 
-VS Code                  14 hrs 42 mins      █████████████████████░░░░   85.72 % 
-Exec Wakatime            1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
-Zed                      1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.96 % 
+VS Code                  12 hrs 2 mins       █████████████████████░░░░   82.48 % 
+Exec Wakatime            1 hr 42 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.71 % 
+Zed                      50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.81 % 
 ```
 
 
- Last Updated on 25/07/2026 19:44:49 UTC
+ Last Updated on 26/07/2026 19:44:30 UTC
 <!--END_SECTION:waka-->
