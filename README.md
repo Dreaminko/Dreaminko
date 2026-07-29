@@ -11,40 +11,40 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               2 hrs 50 mins       ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-Python                   1 hr 37 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.34 % 
-Rust                     1 hr 33 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.66 % 
-Markdown                 1 hr 15 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-RPMSpec                  1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.95 % 
+TypeScript               3 hrs 6 mins        █████████░░░░░░░░░░░░░░░░   34.59 % 
+Rust                     2 hrs 10 mins       ██████░░░░░░░░░░░░░░░░░░░   24.30 % 
+JSON                     56 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.50 % 
+Markdown                 49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.14 % 
+Python                   43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 29 mins       ████████████████░░░░░░░░░   65.93 % 
-Zed                      3 hrs 4 mins        ███████░░░░░░░░░░░░░░░░░░   27.09 % 
-Exec Wakatime            47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
+VS Code                  5 hrs 53 mins       ████████████████░░░░░░░░░   65.64 % 
+Zed                      2 hrs 53 mins       ████████░░░░░░░░░░░░░░░░░   32.33 % 
+Exec Wakatime            10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 17 mins (73.07%)
+⏱ AI Coding Time: 6 hrs 4 mins (67.67%)
 
-✍️ 7,821 lines written by AI, 242 lines written by hand (97.0% AI-written)
+✍️ 7,654 lines written by AI, 242 lines written by hand (96.94% AI-written)
 
-🔤 200,962,364 Input Tokens, 607,922 Output Tokens
+🔤 155,629,783 Input Tokens, 493,298 Output Tokens
 
-💵 $1023.79 Estimated AI Cost This Week
+💵 $793.69 Estimated AI Cost This Week
 
-🧠 19 AI Sessions, 53 AI Prompts
+🧠 11 AI Sessions, 34 AI Prompts
 
-GPT                      8,286 lines         █████████████████████████   100.00 % 
+GPT                      7,757 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 97.0% of written lines came from AI
-📚 Verbose Prompter — average 18,216 characters per prompt
+🤖 AI-Driven — 96.94% of written lines came from AI
+📚 Verbose Prompter — average 9,975 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 6.47% of changed lines were hand-edited
+🚀 High AI Trust — 6.88% of changed lines were hand-edited
 ```
 
 
- Last Updated on 29/07/2026 10:03:16 UTC
+ Last Updated on 29/07/2026 19:53:05 UTC
 <!--END_SECTION:waka-->
