@@ -1,6 +1,10 @@
 ## Hi there 👋
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-120%20hrs%2050%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-56%20hrs%2048%20mins-blue?style=flat)
+
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -42,5 +46,5 @@ GPT                      8,286 lines         ███████████�
 ```
 
 
- Last Updated on 28/07/2026 20:02:21 UTC
+ Last Updated on 29/07/2026 10:03:16 UTC
 <!--END_SECTION:waka-->
