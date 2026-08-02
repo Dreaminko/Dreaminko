@@ -11,46 +11,44 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Rust                     3 hrs 38 mins       ██████░░░░░░░░░░░░░░░░░░░   24.12 % 
-TypeScript               3 hrs 13 mins       █████░░░░░░░░░░░░░░░░░░░░   21.39 % 
-CSS                      1 hr 49 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
-Python                   1 hr 43 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.47 % 
-Markdown                 1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.73 % 
+Rust                     3 hrs 22 mins       ████████░░░░░░░░░░░░░░░░░   31.92 % 
+TypeScript               2 hrs 31 mins       ██████░░░░░░░░░░░░░░░░░░░   23.90 % 
+Markdown                 1 hr 8 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.85 % 
+C                        37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.91 % 
+YAML                     34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 21 mins       ████████████████░░░░░░░░░   62.11 % 
-Zed                      4 hrs 35 mins       ████████░░░░░░░░░░░░░░░░░   30.44 % 
-Exec Wakatime            34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 % 
-Opencode Cli             31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
-CLion                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+VS Code                  5 hrs 49 mins       ██████████████░░░░░░░░░░░   55.19 % 
+Zed                      4 hrs 11 mins       ██████████░░░░░░░░░░░░░░░   39.64 % 
+Opencode Cli             31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.93 % 
+CLion                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 hrs 56 mins (72.57%)
+⏱ AI Coding Time: 6 hrs 25 mins (60.88%)
 
-✍️ 9,437 lines written by AI, 274 lines written by hand (97.18% AI-written)
+✍️ 6,763 lines written by AI, 274 lines written by hand (96.11% AI-written)
 
-🔤 344,942,285 Input Tokens, 951,405 Output Tokens
+🔤 134,273,013 Input Tokens, 469,153 Output Tokens
 
-💵 $1737.29 Estimated AI Cost This Week
+💵 $683.46 Estimated AI Cost This Week
 
-🧠 34 AI Sessions, 75 AI Prompts
+🧠 17 AI Sessions, 34 AI Prompts
 
-GPT                      8,984 lines         ██████████████████████░░░   87.85 % 
-Vscode-Wakatime          738 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   07.22 % 
-Gemini                   504 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.93 % 
+GPT                      6,652 lines         ███████████████████████░░   92.96 % 
+Gemini                   504 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   07.04 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 97.18% of written lines came from AI
-📚 Verbose Prompter — average 21,975 characters per prompt
+🤖 AI-Driven — 96.11% of written lines came from AI
+📚 Verbose Prompter — average 34,609 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 5.67% of changed lines were hand-edited
+🚀 High AI Trust — 7.91% of changed lines were hand-edited
 ```
 
 
- Last Updated on 01/08/2026 19:44:31 UTC
+ Last Updated on 02/08/2026 19:44:09 UTC
 <!--END_SECTION:waka-->
