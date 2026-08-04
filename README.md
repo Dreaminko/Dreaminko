@@ -11,44 +11,44 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Rust                     3 hrs 22 mins       ████████░░░░░░░░░░░░░░░░░   31.92 % 
-TypeScript               2 hrs 31 mins       ██████░░░░░░░░░░░░░░░░░░░   23.90 % 
-Markdown                 1 hr 8 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.85 % 
-C                        37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.91 % 
-YAML                     34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
+TypeScript               1 hr 21 mins        ███████░░░░░░░░░░░░░░░░░░   29.85 % 
+Rust                     50 mins             █████░░░░░░░░░░░░░░░░░░░░   18.32 % 
+C                        37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.69 % 
+YAML                     31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.52 % 
+HTML                     29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.88 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 49 mins       ██████████████░░░░░░░░░░░   55.19 % 
-Zed                      4 hrs 11 mins       ██████████░░░░░░░░░░░░░░░   39.64 % 
-Opencode Cli             31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.93 % 
-CLion                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+VS Code                  2 hrs 30 mins       ██████████████░░░░░░░░░░░   54.88 % 
+Zed                      1 hr 30 mins        ████████░░░░░░░░░░░░░░░░░   33.15 % 
+Opencode Cli             31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.42 % 
+CLion                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 25 mins (60.88%)
+⏱ AI Coding Time: 3 hrs 6 mins (68.06%)
 
-✍️ 6,763 lines written by AI, 274 lines written by hand (96.11% AI-written)
+✍️ 3,778 lines written by AI, 28 lines written by hand (99.26% AI-written)
 
-🔤 134,273,013 Input Tokens, 469,153 Output Tokens
+🔤 58,599,996 Input Tokens, 246,654 Output Tokens
 
-💵 $683.46 Estimated AI Cost This Week
+💵 $298.42 Estimated AI Cost This Week
 
-🧠 17 AI Sessions, 34 AI Prompts
+🧠 15 AI Sessions, 21 AI Prompts
 
-GPT                      6,652 lines         ███████████████████████░░   92.96 % 
-Gemini                   504 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   07.04 % 
+GPT                      3,440 lines         ██████████████████████░░░   87.22 % 
+Gemini                   504 lines           ███░░░░░░░░░░░░░░░░░░░░░░   12.78 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 96.11% of written lines came from AI
-📚 Verbose Prompter — average 34,609 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 7.91% of changed lines were hand-edited
+🤖 AI-Driven — 99.26% of written lines came from AI
+📚 Verbose Prompter — average 56,017 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🚀 High AI Trust — 0.9% of changed lines were hand-edited
 ```
 
 
- Last Updated on 02/08/2026 19:44:09 UTC
+ Last Updated on 04/08/2026 20:09:28 UTC
 <!--END_SECTION:waka-->
