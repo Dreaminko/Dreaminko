@@ -9,18 +9,18 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Rust                     6 hrs 50 mins       ██████████████░░░░░░░░░░░   57.28 % 
-TypeScript               3 hrs 1 min         ██████░░░░░░░░░░░░░░░░░░░   25.36 % 
-Kotlin                   40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.63 % 
-Markdown                 31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
-CSS                      23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
+Rust                     5 hrs 24 mins       ███████████████░░░░░░░░░░   59.23 % 
+TypeScript               2 hrs 6 mins        ██████░░░░░░░░░░░░░░░░░░░   23.16 % 
+Kotlin                   40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 % 
+Markdown                 27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.07 % 
+CSS                      17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
 
 🔥 Editors: 
-Codex Vscode             10 hrs 2 mins       █████████████████████░░░░   84.08 % 
-Zed                      1 hr 50 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.44 % 
-VS Code                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
+Codex Vscode             7 hrs 50 mins       █████████████████████░░░░   85.87 % 
+Zed                      1 hr 13 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.50 % 
+VS Code                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
 ```
 
 
- Last Updated on 29/08/2026 01:51:47 UTC
+ Last Updated on 29/08/2026 21:05:04 UTC
 <!--END_SECTION:waka-->
