@@ -9,18 +9,17 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               2 hrs 36 mins       ███████████░░░░░░░░░░░░░░   44.38 % 
-Rust                     2 hrs 12 mins       █████████░░░░░░░░░░░░░░░░   37.49 % 
-Markdown                 37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.72 % 
-CSS                      16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 % 
-PowerShell               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
+TypeScript               1 hr 28 mins        █████████████████░░░░░░░░   66.94 % 
+Rust                     19 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.53 % 
+Markdown                 16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.73 % 
+PowerShell               3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
+YAML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
 
 🔥 Editors: 
-Codex Vscode             4 hrs 48 mins       ████████████████████░░░░░   81.95 % 
-Zed                      1 hr                ████░░░░░░░░░░░░░░░░░░░░░   17.07 % 
-VS Code                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
+Codex Vscode             1 hr 37 mins        ██████████████████░░░░░░░   73.09 % 
+Zed                      35 mins             ███████░░░░░░░░░░░░░░░░░░   26.91 % 
 ```
 
 
- Last Updated on 30/08/2026 21:25:35 UTC
+ Last Updated on 31/08/2026 22:59:22 UTC
 <!--END_SECTION:waka-->
