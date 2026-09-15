@@ -9,19 +9,16 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-HTML                     2 hrs 23 mins       ████████████░░░░░░░░░░░░░   46.67 % 
-Rust                     1 hr 17 mins        ██████░░░░░░░░░░░░░░░░░░░   25.34 % 
-CSS                      18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.03 % 
-TypeScript               17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
-JavaScript               15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.19 % 
+HTML                     2 hrs 4 mins        ███████████████░░░░░░░░░░   60.49 % 
+Rust                     1 hr 17 mins        █████████░░░░░░░░░░░░░░░░   37.40 % 
+jsonc                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
+TypeScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
 
 🔥 Editors: 
-Zed                      2 hrs 39 mins       █████████████░░░░░░░░░░░░   51.89 % 
-Codex Vscode             2 hrs 7 mins        ██████████░░░░░░░░░░░░░░░   41.38 % 
-Open                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
-Codex Exec               7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
+Zed                      2 hrs 10 mins       ████████████████░░░░░░░░░   63.12 % 
+Codex Vscode             1 hr 16 mins        █████████░░░░░░░░░░░░░░░░   36.88 % 
 ```
 
 
- Last Updated on 14/09/2026 21:58:04 UTC
+ Last Updated on 15/09/2026 21:40:10 UTC
 <!--END_SECTION:waka-->
