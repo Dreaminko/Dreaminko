@@ -9,16 +9,15 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-HTML                     2 hrs 4 mins        ███████████████░░░░░░░░░░   60.49 % 
-Rust                     1 hr 17 mins        █████████░░░░░░░░░░░░░░░░   37.40 % 
-jsonc                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
-TypeScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
+Rust                     1 hr 17 mins        ████████████████████████░   95.52 % 
+HTML                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
+TypeScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
 
 🔥 Editors: 
-Zed                      2 hrs 10 mins       ████████████████░░░░░░░░░   63.12 % 
-Codex Vscode             1 hr 16 mins        █████████░░░░░░░░░░░░░░░░   36.88 % 
+Codex Vscode             1 hr 16 mins        ████████████████████████░   94.19 % 
+Zed                      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.81 % 
 ```
 
 
- Last Updated on 15/09/2026 21:40:10 UTC
+ Last Updated on 16/09/2026 21:35:28 UTC
 <!--END_SECTION:waka-->
