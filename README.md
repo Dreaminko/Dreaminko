@@ -9,12 +9,17 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Rust                     2 hrs 35 mins       ████████████████░░░░░░░░░   63.58 % 
+Markdown                 45 mins             █████░░░░░░░░░░░░░░░░░░░░   18.41 % 
+PowerShell               19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 % 
+JSON                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
+Other                    7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Codex Vscode             3 hrs 40 mins       ███████████████████████░░   90.33 % 
+Zed                      23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.67 % 
 ```
 
 
- Last Updated on 07/10/2026 23:15:29 UTC
+ Last Updated on 08/10/2026 23:31:00 UTC
 <!--END_SECTION:waka-->
