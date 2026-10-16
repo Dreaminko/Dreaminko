@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-249%20hrs%2044%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-252%20hrs%2039%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -9,19 +9,19 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Rust                     10 hrs 35 mins      ██████████░░░░░░░░░░░░░░░   40.97 % 
-Markdown                 4 hrs 22 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.93 % 
-TypeScript               3 hrs 55 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.20 % 
-JSON                     1 hr 35 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.18 % 
-JavaScript               1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
+Rust                     9 hrs 20 mins       ████████████░░░░░░░░░░░░░   46.03 % 
+Markdown                 3 hrs 12 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.84 % 
+TypeScript               2 hrs 46 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.71 % 
+JSON                     1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.39 % 
+JavaScript               57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
 
 🔥 Editors: 
-Codex Vscode             15 hrs 39 mins      ███████████████░░░░░░░░░░   60.56 % 
-Zed                      9 hrs 24 mins       █████████░░░░░░░░░░░░░░░░   36.40 % 
-Claude Code              26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
-Magpie                   20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
+Codex Vscode             10 hrs 28 mins      █████████████░░░░░░░░░░░░   51.61 % 
+Zed                      9 hrs               ███████████░░░░░░░░░░░░░░   44.41 % 
+Claude Code              26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
+Magpie                   22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
 ```
 
 
- Last Updated on 15/10/2026 21:39:25 UTC
+ Last Updated on 16/10/2026 21:35:17 UTC
 <!--END_SECTION:waka-->
