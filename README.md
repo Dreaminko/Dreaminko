@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-301%20hrs%207%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-302%20hrs%204%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -9,17 +9,17 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Rust                     10 hrs 20 mins      ████████░░░░░░░░░░░░░░░░░   30.80 % 
-Markdown                 6 hrs 17 mins       █████░░░░░░░░░░░░░░░░░░░░   18.73 % 
-TypeScript               5 hrs 22 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.02 % 
-Other                    4 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.66 % 
-JavaScript               3 hrs 16 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.75 % 
+TypeScript               10 hrs 9 mins       ███████░░░░░░░░░░░░░░░░░░   29.42 % 
+Rust                     7 hrs 59 mins       ██████░░░░░░░░░░░░░░░░░░░   23.14 % 
+Markdown                 5 hrs 32 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.08 % 
+Other                    4 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.92 % 
+JavaScript               3 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   08.72 % 
 
 🔥 Editors: 
-Magpie                   30 hrs 13 mins      ██████████████████████░░░   90.00 % 
-Zed                      3 hrs 21 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+Magpie                   31 hrs 40 mins      ███████████████████████░░   91.77 % 
+Zed                      2 hrs 50 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.23 % 
 ```
 
 
- Last Updated on 30/10/2026 22:34:53 UTC
+ Last Updated on 31/10/2026 21:48:34 UTC
 <!--END_SECTION:waka-->
