@@ -9,17 +9,17 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    32 hrs              ███████████████░░░░░░░░░░   59.64 % 
-Rust                     7 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.63 % 
-TypeScript               5 hrs 24 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.06 % 
-JavaScript               3 hrs 29 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
-Markdown                 2 hrs 17 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 % 
+Other                    33 hrs 57 mins      ████████████████░░░░░░░░░   65.92 % 
+Rust                     6 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.89 % 
+TypeScript               4 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 % 
+JavaScript               2 hrs 48 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.45 % 
+Markdown                 2 hrs 4 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
 
 🔥 Editors: 
-Magpie                   51 hrs 16 mins      ████████████████████████░   95.53 % 
-Zed                      2 hrs 24 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 % 
+Magpie                   49 hrs 59 mins      ████████████████████████░   97.05 % 
+Zed                      1 hr 31 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
 ```
 
 
- Last Updated on 12/11/2026 23:47:31 UTC
+ Last Updated on 13/11/2026 23:47:01 UTC
 <!--END_SECTION:waka-->
