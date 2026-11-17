@@ -9,17 +9,13 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    34 hrs 32 mins      ███████████████████████░░   92.44 % 
-JavaScript               1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
-TypeScript               41 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
-Rust                     35 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
-CSS                      14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
+Other                    35 hrs 47 mins      █████████████████████████   99.35 % 
+TypeScript               14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
 
 🔥 Editors: 
-Magpie                   37 hrs 9 mins       █████████████████████████   99.45 % 
-Zed                      12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
+Magpie                   36 hrs 1 min        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 15/11/2026 23:04:06 UTC
+ Last Updated on 17/11/2026 01:58:58 UTC
 <!--END_SECTION:waka-->
