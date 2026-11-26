@@ -9,18 +9,18 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    20 hrs 6 mins       ███████████████████████░░   91.50 % 
-Swift                    49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
-Markdown                 27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
-Rust                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
-JSON                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
+Other                    14 hrs              ███████████████████████░░   91.88 % 
+Swift                    49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.40 % 
+Markdown                 15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
+Image (svg)              2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
+Vue                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
 
 🔥 Editors: 
-Antigravity              8 hrs 39 mins       ██████████░░░░░░░░░░░░░░░   39.38 % 
-Zed                      6 hrs 43 mins       ████████░░░░░░░░░░░░░░░░░   30.63 % 
-Magpie                   6 hrs 35 mins       ███████░░░░░░░░░░░░░░░░░░   29.99 % 
+Antigravity              8 hrs 39 mins       ██████████████░░░░░░░░░░░   56.73 % 
+Zed                      5 hrs 29 mins       █████████░░░░░░░░░░░░░░░░   36.02 % 
+Magpie                   1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.24 % 
 ```
 
 
- Last Updated on 25/11/2026 02:43:38 UTC
+ Last Updated on 26/11/2026 01:54:49 UTC
 <!--END_SECTION:waka-->
