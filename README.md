@@ -9,18 +9,16 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    8 hrs 15 mins       ███████████████████████░░   90.63 % 
-Swift                    26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
-Markdown                 15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
-Image (svg)              2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
-Vue                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+Other                    4 hrs 39 mins       ███████████████████████░░   93.38 % 
+Markdown                 15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
+TypeScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
+Rust                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
 
 🔥 Editors: 
-Zed                      4 hrs 59 mins       ██████████████░░░░░░░░░░░   54.83 % 
-Antigravity              3 hrs 40 mins       ██████████░░░░░░░░░░░░░░░   40.24 % 
-Magpie                   26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.93 % 
+Zed                      4 hrs 59 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 27/11/2026 01:52:54 UTC
+ Last Updated on 28/11/2026 01:35:13 UTC
 <!--END_SECTION:waka-->
